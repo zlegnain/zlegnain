@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zak legnain and Im a 4th year student at Carleton University
-- 🌱 I’m currently learning ... Python-usbtmc, and Im currently working on my Response Analyzer application.
+- 🌱 I’m currently learning ... Java, and Im working on my A-star Visualizer
 - 🌱 I'm currently doing an internship at Venable Instruments
 
 <!---
